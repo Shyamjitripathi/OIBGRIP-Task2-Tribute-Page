@@ -1,5 +1,5 @@
 # OIBGRIP-Task2-Tribute-Page
-[Live link of website](https://basic-calc-24.netlify.app/)<br>
+[Live link of website](https://shyamjitripathi.github.io/OIBGRIP-Task2-Tribute-Page/)<br>
 <br>
 Tribute page for **James Gosling** a.k.a **Dr.Java**. James Gosling with his three friends invented famous **Java Language**<br>
 Through this page trying to pay my respect for his hard work.
